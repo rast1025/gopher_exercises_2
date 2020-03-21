@@ -1,0 +1,10 @@
+[
+  {
+    "path": "/rik",
+    "url": "https://httpbin.org"
+  },
+  {
+    "path": "/rast",
+    "url": "https://httpbin.org/get"
+  }
+]
